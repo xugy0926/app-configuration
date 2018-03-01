@@ -1,0 +1,23 @@
+{
+  "name": "app-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xugy0926/app-configuration.git"
+  },
+  "author": "xugaoyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xugy0926/app-configuration/issues"
+  },
+  "homepage": "https://github.com/xugy0926/app-configuration#readme",
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "utility": "^1.13.1"
+  }
+}
